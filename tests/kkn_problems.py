@@ -1,6 +1,6 @@
 import unittest
 
-from kkn_solver import Knave, Knight, Normal
+from kk_solver.kkn_solver import Knave, Knight, Normal
 
 
 class KKNProblems(unittest.TestCase):
